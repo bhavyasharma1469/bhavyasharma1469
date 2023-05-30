@@ -60,6 +60,10 @@ Here are a few highlights from my project portfolio:
 
 Feel free to explore my repositories to discover more of my work!
 
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyasharma1469&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Skills
 - **Technologies and Frameworks:** [mention relevant technologies and frameworks], which have been instrumental in my projects.
 - **Software:** [mention tools and software you're familiar with], allowing me to streamline development and enhance productivity.
