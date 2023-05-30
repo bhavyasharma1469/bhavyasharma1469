@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div align="center">
-  <img src="your-profile-image-url" alt="Your Name" width="200" height="200">
+  <img src="your-profile-image-url" alt="Bhavya Sharma" width="200" height="200">
 </div>
 
 # Hi, I'm [Bhavya Sharma]! 👋
@@ -48,19 +48,19 @@ I actively contribute to the open-source community. Some of my notable contribut
 
 <div align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="linkedin-icon.png" alt="LinkedIn" width="30" height="30">
+    <img src="[linkedin-icon.png](https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505)" alt="LinkedIn" width="30" height="30">
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="email-icon.png" alt="Email" width="30" height="30">
+  <a href="mailto:bhavya0002sharma@gmail.com" target="_blank">
+    <img src="[email-icon.png](https://www.flaticon.com/free-icon/gmail_732200?term=mail&page=1&position=6&origin=search&related_id=732200)" alt="Email" width="30" height="30">
   </a>
 </div>
 
 Let's connect and collaborate on exciting projects!
 
-## License
+<!-- ## License
 
 This repository is licensed under the [MIT License](LICENSE).
-
+ -->
 
 <!--
 **bhavyasharma1469/bhavyasharma1469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
