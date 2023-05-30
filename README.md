@@ -9,6 +9,7 @@
 
 <!-- [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bhavya-sharma2002/)
+<a href="https://github.com/bhavyasharma1469"><img src="https://img.shields.io/badge/Made%20With%20❤️%20By-Bhavya-orange"></a>
 
 Welcome to my GitHub profile! I'm a passionate [Computer Science Student] student with a focus on [AI/ML, Data Analysis and problem-solving skills with CP]. I'm excited to showcase my projects, coursework, and contributions here.
 
@@ -86,9 +87,9 @@ I actively contribute to the open-source community. Some of my notable contribut
   <a href="mailto:bhavya0002sharma@gmail.com" target="_blank">
     <img src="https://github.com/google/material-design-icons/blob/master/src/communication/email/materialicons/24px.svg" alt="Email" width="30" height="30">
   </a>
-  <a href="mailto:bhavya0002sharma@gmail.com" target="_blank">
+<!--   <a href="mailto:bhavya0002sharma@gmail.com" target="_blank">
     <img src="https://camo.githubusercontent.com/2454f972a29b1c10bf92c7dfaa9ec82b7bc2952a706178eadaf7384779bd4782/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d74616c2d72657669766f2d636f6c6f722d74616c2d72657669766f2f39362f3030303030302f65787465726e616c2d6c6576656c2d75702d796f75722d636f64696e672d736b696c6c732d616e642d717569636b6c792d6c616e642d612d6a6f622d6c6f676f2d636f6c6f722d74616c2d72657669766f2e706e67" alt="Email" width="30" height="30">
-  </a>
+  </a> -->
 </div>
 
 Let's connect and collaborate on exciting projects!
