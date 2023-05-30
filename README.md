@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" style="border-radius: 50%" >
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" style="border-radius: 50%" width="100"/ >
 </div>
 <!-- <div align="center">
   <img src="your-profile-image-url" alt="Bhavya Sharma" width="200" height="200">
