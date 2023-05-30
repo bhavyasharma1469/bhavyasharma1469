@@ -5,19 +5,19 @@
   <img src="your-profile-image-url" alt="Your Name" width="200" height="200">
 </div>
 
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm [Bhavya Sharma]! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)
+<!-- [![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/bhavya-sharma2002/)
 
-Welcome to my GitHub profile! I'm a passionate [mention your academic level or field of study] student with a focus on [mention your interests or areas of specialization]. I'm excited to showcase my projects, coursework, and contributions here.
+Welcome to my GitHub profile! I'm a passionate [Computer Science Student] student with a focus on [AI/ML, Data Analysis and problem-solving skills with CP]. I'm excited to showcase my projects, coursework, and contributions here.
 
 ## About Me
 
-- 🎓 Studying [your degree/program] at [your university/school]
-- 💡 Exploring [mention your areas of interest] to gain a deeper understanding
-- 🌱 Currently diving into [mention what you're currently learning] to expand my skillset
-- 💼 Seeking internships/opportunities in [mention relevant fields] to apply my knowledge
+- 🎓 Studying [BTech in CSE] at [Dr B R Ambedkar National Institute of Technology, Jalandhar (NITJ)]
+- 💡 Exploring [AI and web development] to gain a deeper understanding
+- 🌱 Currently diving into [front-end web development] to expand my skillset
+- 💼 Seeking internships/opportunities in [Software Development] to apply my knowledge
 
 ## Projects
 
@@ -36,14 +36,14 @@ Feel free to explore my repositories to discover more of my work!
 - **Tools and Software:** [mention tools and software you're familiar with], allowing me to streamline development and enhance productivity.
 - **Other Skills:** [mention any other relevant skills] that contribute to my well-rounded approach.
 
-## Contributions
+<!-- ## Contributions
 
 I actively contribute to the open-source community. Some of my notable contributions include:
 
 - [Contribution 1](link-to-contribution1): A brief description highlighting the impact of your contribution.
 - [Contribution 2](link-to-contribution2): An overview of your involvement and the value you added.
 - [Contribution 3](link-to-contribution3): A summary of your contribution's significance and its benefits.
-
+ -->
 ## Connect with Me
 
 <div align="center">
