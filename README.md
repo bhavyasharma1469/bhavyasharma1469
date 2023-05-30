@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="your-profile-image-url" alt="Bhavya Sharma" width="200" height="200">
-</div>
+</div> -->
 
 # Hi, I'm [Bhavya Sharma]! 👋
 
@@ -65,9 +65,9 @@ Feel free to explore my repositories to discover more of my work!
 
 
 ## Skills
-- **Technologies and Frameworks:** [mention relevant technologies and frameworks], which have been instrumental in my projects.
-- **Software:** [mention tools and software you're familiar with], allowing me to streamline development and enhance productivity.
-- **Other Skills:** [mention any other relevant skills] that contribute to my well-rounded approach.
+- **Technologies and Frameworks:** [Pelican, Sphinx, Bootstrap, TensorFlow, Keras], which have been instrumental in my projects.
+- **Software and OS:** [Android Studio, Visual Studio Code, Cisco Packet Tracer, Orange, Atom, MySQL Workbench, LaTex, Git, Google Colaboratory, Jupyter Notebook, Linux, Windows, Figm], allowing me to streamline development and enhance productivity.
+- **Other Skills:** [Adaptability, Communication, Team Work, Leadership, Writing, Public Speaking, Time Management] that contribute to my well-rounded approach.
 
 <!-- ## Contributions
 
