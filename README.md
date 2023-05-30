@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" style="border-radius: 50%" width="100"/ >
+  <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/baracktocat.jpg" width="200"/ >
 </div>
 <!-- <div align="center">
   <img src="your-profile-image-url" alt="Bhavya Sharma" width="200" height="200">
