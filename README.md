@@ -54,9 +54,9 @@ Welcome to my GitHub profile! I'm a passionate [Computer Science Student] studen
 
 Here are a few highlights from my project portfolio:
 
-- [Project 1](link-to-project1): A concise and compelling tagline that captures the essence of the project.
-- [Project 2](link-to-project2): A brief overview of the project's purpose and notable features.
-- [Project 3](link-to-project3): A summary highlighting the problem it solves or the value it provides.
+- [Yoga AI Trainer](https://github.com/bhavyasharma1469/Yoga_AI_Trainer): A web based yoga trainer to help monitor and better perform yoga poses using AI.
+- [Harry Potter like Chatbot](https://github.com/bhavyasharma1469/DiscordCharacterBot): A discord bot that chats like the famous Harry Potter character of JK Rowling.
+- [Audi To Text Generator](https://github.com/bhavyasharma1469/AudioToText): Built a Real-Time Automatic Speech Recognition using Deep Learning Model.
 
 Feel free to explore my repositories to discover more of my work!
 
