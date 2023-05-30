@@ -80,7 +80,7 @@ I actively contribute to the open-source community. Some of my notable contribut
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
   </a>
   <a href="mailto:bhavya0002sharma@gmail.com" target="_blank">
-    <img src="[email-icon.png](https://www.flaticon.com/free-icon/gmail_732200?term=mail&page=1&position=6&origin=search&related_id=732200)" alt="Email" width="30" height="30">
+    <img src="https://icons8.com/icon/qyRpAggnV0zH/gmail" alt="Email" width="30" height="30">
   </a>
 </div>
 
